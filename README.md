@@ -10,9 +10,16 @@
 
 [![Additional:](https://skillicons.dev/icons?i=matlab,nextjs,anaconda,blender,clion,debian,discord,idea,linux,mint,neovim,npm,obsidian,ubuntu,vim,vscode,yarn)](https://skillicons.dev)
 
-# Cool Projects I have worked on:
+## Cool Projects I have worked on:
+# A vollyball web application
 A volleyball web application to organise leagues! We play on Carson beach every summer!:
 https://volleyball-app-frontend-mk1.uw.r.appspot.com/
+
+# A Q-Learning based race car learning how to drive
+2D car racing basic environment: experimenting with a tabular Q-learning and DQN model
+https://github.com/gyuszix/DeepQ-Pilot
+
+
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/julesplanky/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyuszix@gmail.com) 
