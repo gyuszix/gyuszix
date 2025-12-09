@@ -11,7 +11,7 @@
 [![Additional:](https://skillicons.dev/icons?i=matlab,nextjs,anaconda,blender,clion,debian,discord,idea,linux,mint,neovim,npm,obsidian,ubuntu,vim,vscode,yarn)](https://skillicons.dev)
 
 ## Cool Projects I have worked on:
-# A vollyball web application
+# A volleyball web application
 A volleyball web application to organise leagues! We play on Carson beach every summer!:
 https://volleyball-app-frontend-mk1.uw.r.appspot.com/
 
