@@ -23,14 +23,6 @@ Organize leagues, schedule matches, and track teams for our Carson Beach summer 
        width="280">
 </p>
 
----
-
-### Features
-- Create & manage events
-- Player authentication
-- Upcoming + past games
-- Simple clean UI
-
 
 # A Q-Learning based race car learning how to drive
 2D car racing basic environment: experimenting with a tabular Q-learning and DQN model
