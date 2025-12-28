@@ -14,6 +14,8 @@
 # A volleyball web application
 A volleyball web application to organise leagues! We play on Carson beach every summer!:
 https://volleyball-app-frontend-mk1.uw.r.appspot.com/
+<img width="448" height="665" alt="image" src="https://github.com/user-attachments/assets/cedc61a7-303b-41b9-8bc4-a694245545c0" />
+
 
 # A Q-Learning based race car learning how to drive
 2D car racing basic environment: experimenting with a tabular Q-learning and DQN model
