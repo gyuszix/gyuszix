@@ -10,11 +10,27 @@
 
 [![Additional:](https://skillicons.dev/icons?i=matlab,nextjs,anaconda,blender,clion,debian,discord,idea,linux,mint,neovim,npm,obsidian,ubuntu,vim,vscode,yarn)](https://skillicons.dev)
 
-## Cool Projects I have worked on:
-# A volleyball web application
-A volleyball web application to organise leagues! We play on Carson beach every summer!:
-https://volleyball-app-frontend-mk1.uw.r.appspot.com/
-<img width="448" height="665" alt="image" src="https://github.com/user-attachments/assets/cedc61a7-303b-41b9-8bc4-a694245545c0" />
+## 🏐 Spike City – Volleyball League App
+
+Organize leagues, schedule matches, and track teams for our Carson Beach summer games.
+
+👉 Live site: https://volleyball-app-frontend-mk1.uw.r.appspot.com/
+
+---
+
+### Preview
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cedc61a7-303b-41b9-8bc4-a694245545c0"
+       width="320">
+</p>
+
+---
+
+### Features
+- Create & manage events
+- Player authentication
+- Upcoming + past games
+- Simple clean UI
 
 
 # A Q-Learning based race car learning how to drive
