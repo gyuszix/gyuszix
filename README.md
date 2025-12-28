@@ -17,7 +17,7 @@ https://volleyball-app-frontend-mk1.uw.r.appspot.com/
 
 # A Q-Learning based race car learning how to drive
 2D car racing basic environment: experimenting with a tabular Q-learning and DQN model
-https://github.com/gyuszix/DeepQ-Pilot
+https://github.com/gyuszix/DQL-Navigator
 
 
 
