@@ -10,25 +10,27 @@
 
 [![Additional:](https://skillicons.dev/icons?i=matlab,nextjs,anaconda,blender,clion,debian,discord,idea,linux,mint,neovim,npm,obsidian,ubuntu,vim,vscode,yarn)](https://skillicons.dev)
 
+
+---
+
 ## 🏐 Spike City – Volleyball League App
 
 Organize leagues, schedule matches, and track teams for our Carson Beach summer games.
-
----
 
 <p align="center">
   <a href="https://volleyball-app-frontend-mk1.uw.r.appspot.com/">
   <img src="https://github.com/user-attachments/assets/cedc61a7-303b-41b9-8bc4-a694245545c0"
        width="400">
 </p>
-
+    
+---
 
 
 ## 🏎️ DQL Navigator – Self-Driving Race Car via Reinforcement Learning
 
 Teaching a 2D race car to drive itself using reinforcement learning — from classic tabular Q-Learning to Deep Q-Networks (DQN). Watch it go from crashing into every wall to nailing the track.
 
----
+
 
 <p align="center">
   <a href="https://github.com/gyuszix/DQL-Navigator">
@@ -37,6 +39,8 @@ Teaching a 2D race car to drive itself using reinforcement learning — from cla
   </a>
 </p>
 
+
+---
 
 
 
