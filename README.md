@@ -10,7 +10,7 @@
 
 [![Additional:](https://skillicons.dev/icons?i=matlab,nextjs,anaconda,blender,clion,debian,discord,idea,linux,mint,neovim,npm,obsidian,ubuntu,vim,vscode,yarn)](https://skillicons.dev)
 
-
+# Recent Projects I have worked on:
 ---
 
 ## 🏐 Spike City – Volleyball League App
