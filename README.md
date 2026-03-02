@@ -23,9 +23,20 @@ Organize leagues, schedule matches, and track teams for our Carson Beach summer 
 </p>
 
 
-# A Q-Learning based race car learning how to drive
-2D car racing basic environment: experimenting with a tabular Q-learning and DQN model
-https://github.com/gyuszix/DQL-Navigator
+
+## 🏎️ DQL Navigator – Q-Learning Race Car
+
+2D car racing basic environment: experimenting with a tabular Q-learning and DQN model.
+
+---
+
+<p align="center">
+  <a href="https://github.com/gyuszix/DQL-Navigator">
+    <img src="https://github.com/user-attachments/assets/23ad62df-ecaa-47b2-b29f-f667ea888caf"
+         width="400">
+  </a>
+</p>
+
 
 
 
