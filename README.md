@@ -15,7 +15,7 @@
 
 ## 🏐 Spike City – Volleyball League App
 
-Organize leagues, schedule matches, and track teams for our Carson Beach summer games.
+Organize leagues, schedule matches, and track teams for our Carson Beach summer games. MongoDB, Express, React, Node.js stack, RESTful implementation.
 
 <p align="center">
   <a href="https://volleyball-app-frontend-mk1.uw.r.appspot.com/">
@@ -28,8 +28,7 @@ Organize leagues, schedule matches, and track teams for our Carson Beach summer 
 
 ## 🏎️ DQL Navigator – Self-Driving Race Car via Reinforcement Learning
 
-Teaching a 2D race car to drive itself using reinforcement learning — from classic tabular Q-Learning to Deep Q-Networks (DQN). Watch it go from crashing into every wall to nailing the track.
-
+Based on the popular [Racing Gym Environment](https://github.com/igilitschenski/multi_car_racing) we trained a 2D car to drive from zero to hero, comparing tabular Q-Learning with Deep Q-Networks (DQN).
 
 
 <p align="center">
