@@ -26,7 +26,7 @@ Organize leagues, schedule matches, and track teams for our Carson Beach summer 
 ---
 
 
-## 🏎️ DQL Navigator – Self-Driving Race Car via Reinforcement Learning
+## 🏎️ DQL Navigator – Reinforcement Learning
 
 Based on the popular [Racing Gym Environment](https://github.com/igilitschenski/multi_car_racing) we trained a 2D car to drive from zero to hero, comparing tabular Q-Learning with Deep Q-Networks (DQN).
 
