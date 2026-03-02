@@ -19,7 +19,7 @@ Organize leagues, schedule matches, and track teams for our Carson Beach summer 
 <p align="center">
   <a href="https://volleyball-app-frontend-mk1.uw.r.appspot.com/">
   <img src="https://github.com/user-attachments/assets/cedc61a7-303b-41b9-8bc4-a694245545c0"
-       width="280">
+       width="400">
 </p>
 
 
