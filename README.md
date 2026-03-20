@@ -45,6 +45,18 @@ Based on the popular [Racing Gym Environment](https://github.com/igilitschenski/
 
 ---
 
+## 🍓Tail Vault - Easy-to-Setup home RaspberryPi NAS
+
+Self-hosted NAS on a Raspberry Pi 5 with Tailscale mesh networking. Accessible from anywhere over an encrypted WireGuard tunnel at ~300 Mbits/sec. ext4 + exFAT dual partition setup for maximum flexibility.
+
+
+<p align="center">
+  <a href="https://github.com/gyuszix/Tail-Vault">
+    <img width="2553" height="1440" alt="Screenshot 2026-03-19 at 19 54 42" src="https://github.com/user-attachments/assets/a683ba31-ec4d-4766-8e86-3ea34657a863"
+        width="400">
+  </a>
+</p>
+
 
 
 ## 🌐 Let's Connect:
