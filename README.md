@@ -58,6 +58,19 @@ Self-hosted NAS on a Raspberry Pi 5 with Tailscale mesh networking. Accessible f
   </a>
 </p>
 
+---
+
+## piDash – Raspberry Pi Monitoring Dashboard
+
+Real-time infrastructure monitoring on a Pi Zero 2 W with e-ink display. Pulls service status from Uptime Kuma over Tailscale, displays health checks for self-hosted services. Python, REST API, Tailscale mesh VPN.
+
+<p align="center">
+  <a href="https://github.com/gyuszix/pi-dashboard">
+    <img <img width="2541" height="798" alt="pidash" src="https://github.com/user-attachments/assets/2e82e7cf-ae93-4ec0-8a12-cd6682584f02" 
+      width="400"/>
+
+  </a>
+</p>
 
 
 ## 🌐 Let's Connect:
