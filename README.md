@@ -32,7 +32,7 @@ Organize leagues, schedule matches, and track teams for our Carson Beach summer 
 ---
 
 
-## 🏎️ DQL Navigator – Reinforcement Learning
+## DQL Navigator – Reinforcement Learning
 
 Based on the popular [Racing Gym Environment](https://github.com/igilitschenski/multi_car_racing) we trained a 2D car to drive from zero to hero, comparing tabular Q-Learning with Deep Q-Networks (DQN).
 
@@ -47,7 +47,7 @@ Based on the popular [Racing Gym Environment](https://github.com/igilitschenski/
 
 ---
 
-## 🍓Tail Vault - Easy-to-Setup home RaspberryPi NAS
+## Tail Vault - Easy-to-Setup home RaspberryPi NAS
 
 Self-hosted NAS on a Raspberry Pi 5 with Tailscale mesh networking. Accessible from anywhere over an encrypted WireGuard tunnel at ~300 Mbits/sec. ext4 + exFAT dual partition setup for maximum flexibility.
 
@@ -74,7 +74,7 @@ Real-time infrastructure monitoring on a Pi Zero 2 W with e-ink display. Pulls s
 </p>
 
 
-## 🌐 Let's Connect:
+## Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/julesplanky/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyuszix@gmail.com) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
