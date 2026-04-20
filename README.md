@@ -32,12 +32,6 @@ End-to-end demand forecasting for Boston's Bluebike system. XGBoost model served
 
 ---
 
----
-
-<img width="1383" height="863" alt="Screenshot 2026-04-20 at 15 29 37" src="https://github.com/user-attachments/assets/3874c1dc-3f09-4f46-854a-48e4aaf2b7bc" />
-<img width="1383" height="913" alt="Screenshot 2026-04-20 at 15 30 24" src="https://github.com/user-attachments/assets/6fe6d510-a6d6-44f1-8832-0f6f8a9e511f" />
-
-
 
 ## Spike City – Volleyball League App
 
