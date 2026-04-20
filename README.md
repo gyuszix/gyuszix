@@ -19,7 +19,27 @@
 ---
 # Recent Projects I have worked on:
 
-## 🏐 Spike City – Volleyball League App
+##  Bluebike Demand Prediction – MLOps Pipeline
+End-to-end demand forecasting for Boston's Bluebike system. XGBoost model served via FastAPI, orchestrated with Apache Airflow, containerized on ECS Fargate with full CI/CD.
+<p align="center">
+  <a href="https://github.com/gyuszix/bluebike-demand-prediction">
+    <img width="400" alt="Bluebike repo" src="https://github.com/user-attachments/assets/3874c1dc-3f09-4f46-854a-48e4aaf2b7bc" />
+  </a>
+  <a href="https://gyuszix.github.io/bluebike-demand-prediction/#/">
+    <img width="400" alt="Bluebike website" src="https://github.com/user-attachments/assets/6fe6d510-a6d6-44f1-8832-0f6f8a9e511f" />
+  </a>
+</p>
+
+---
+
+---
+
+<img width="1383" height="863" alt="Screenshot 2026-04-20 at 15 29 37" src="https://github.com/user-attachments/assets/3874c1dc-3f09-4f46-854a-48e4aaf2b7bc" />
+<img width="1383" height="913" alt="Screenshot 2026-04-20 at 15 30 24" src="https://github.com/user-attachments/assets/6fe6d510-a6d6-44f1-8832-0f6f8a9e511f" />
+
+
+
+## Spike City – Volleyball League App
 
 Organize leagues, schedule matches, and track teams for our Carson Beach summer games. MongoDB, Express, React, Node.js stack, RESTful implementation.
 
