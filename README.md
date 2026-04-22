@@ -33,21 +33,28 @@ Organize leagues, schedule matches, and track teams for our Carson Beach summer 
 </p>
     
 ---
-
 ## SignFormer – Real-Time ASL Recognition
 
 Real-time American Sign Language word recognition using a keypoint-based transformer. MediaPipe extracts hand landmarks, a compact transformer classifies 1,896 signs at 72.8% Top-1 accuracy, running entirely on CPU via ONNX Runtime at ~1.5ms per inference.
 
-<p align="center">
-  <a href="https://github.com/gyuszix/signFormer">
-    <img src="https://github.com/user-attachments/assets/78dce40d-c81f-430a-95c1-e913d0ab75d5"
-         width="400">
-  </a>
-  <a href="https://www.youtube.com/watch?v=jfe_zdpMaG8">
-    <img src="https://img.youtube.com/vi/jfe_zdpMaG8/hqdefault.jpg"
-         width="400">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/78dce40d-c81f-430a-95c1-e913d0ab75d5" width="400">
+      <br>
+      <a href="https://github.com/gyuszix/signFormer">
+        <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.youtube.com/vi/jfe_zdpMaG8/hqdefault.jpg" width="400">
+      <br>
+      <a href="https://www.youtube.com/watch?v=jfe_zdpMaG8">
+        <img src="https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
