@@ -1,4 +1,4 @@
-<img width="777" height="663" alt="Screenshot 2026-04-22 at 16 06 20" src="https://github.com/user-attachments/assets/f0f8b374-07fd-4eb1-af88-92e16d99ca31" /># Welcome to my page:
+# Welcome to my page:
 <br>My name is Gyula (Jules) and this it my GitHub page
 <br>I am a business major with 4 years of experience in Finance and Data
 <br>Currently pursuing my Masters in Computer Science
