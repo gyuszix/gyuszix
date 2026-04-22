@@ -1,4 +1,4 @@
-# Welcome to my page:
+<img width="777" height="663" alt="Screenshot 2026-04-22 at 16 06 20" src="https://github.com/user-attachments/assets/f0f8b374-07fd-4eb1-af88-92e16d99ca31" /># Welcome to my page:
 <br>My name is Gyula (Jules) and this it my GitHub page
 <br>I am a business major with 4 years of experience in Finance and Data
 <br>Currently pursuing my Masters in Computer Science
@@ -32,6 +32,23 @@ Organize leagues, schedule matches, and track teams for our Carson Beach summer 
        width="400">
 </p>
     
+---
+
+## SignFormer – Real-Time ASL Recognition
+
+Real-time American Sign Language word recognition using a keypoint-based transformer. MediaPipe extracts hand landmarks, a compact transformer classifies 1,896 signs at 72.8% Top-1 accuracy, running entirely on CPU via ONNX Runtime at ~1.5ms per inference.
+
+<p align="center">
+  <a href="https://github.com/gyuszix/signFormer">
+    <img src="https://github.com/user-attachments/assets/78dce40d-c81f-430a-95c1-e913d0ab75d5"
+         width="400">
+  </a>
+  <a href="https://www.youtube.com/watch?v=jfe_zdpMaG8">
+    <img src="https://img.youtube.com/vi/jfe_zdpMaG8/hqdefault.jpg"
+         width="400">
+  </a>
+</p>
+
 ---
 
 
