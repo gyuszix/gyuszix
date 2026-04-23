@@ -82,11 +82,15 @@
 ## Bluebike Demand Prediction – MLOps Pipeline
 End-to-end demand forecasting for Boston's Bluebike system. XGBoost model served via FastAPI, orchestrated with Apache Airflow, containerized on ECS Fargate with full CI/CD.
 <p align="center">
+  <img width="500" alt="Bluebike repo" src="https://github.com/user-attachments/assets/3874c1dc-3f09-4f46-854a-48e4aaf2b7bc" />
+  <img width="500" alt="Bluebike website" src="https://github.com/user-attachments/assets/6fe6d510-a6d6-44f1-8832-0f6f8a9e511f" />
+</p>
+<p align="center">
   <a href="https://github.com/gyuszix/bluebike-demand-prediction">
-    <img width="500" alt="Bluebike repo" src="https://github.com/user-attachments/assets/3874c1dc-3f09-4f46-854a-48e4aaf2b7bc" />
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://gyuszix.github.io/bluebike-demand-prediction/#/">
-    <img width="500" alt="Bluebike website" src="https://github.com/user-attachments/assets/6fe6d510-a6d6-44f1-8832-0f6f8a9e511f" />
+    <img src="https://img.shields.io/badge/Website-0078d7?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -98,9 +102,12 @@ End-to-end demand forecasting for Boston's Bluebike system. XGBoost model served
 Organize leagues, schedule matches, and track teams for our Carson Beach summer games. MongoDB, Express, React, Node.js stack, RESTful implementation.
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/cedc61a7-303b-41b9-8bc4-a694245545c0" width="400">
+</p>
+<p align="center">
   <a href="https://volleyball-app-frontend-mk1.uw.r.appspot.com/">
-  <img src="https://github.com/user-attachments/assets/cedc61a7-303b-41b9-8bc4-a694245545c0"
-       width="400">
+    <img src="https://img.shields.io/badge/Website-0078d7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
     
 ---
@@ -121,6 +128,7 @@ Real-time American Sign Language word recognition using a keypoint-based transfo
   </a>
 </p>
 
+
 ---
 
 
@@ -130,9 +138,11 @@ Based on the popular [Racing Gym Environment](https://github.com/igilitschenski/
 
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/23ad62df-ecaa-47b2-b29f-f667ea888caf" width="400">
+</p>
+<p align="center">
   <a href="https://github.com/gyuszix/DQL-Navigator">
-    <img src="https://github.com/user-attachments/assets/23ad62df-ecaa-47b2-b29f-f667ea888caf"
-         width="400">
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -145,9 +155,11 @@ Self-hosted NAS on a Raspberry Pi 5 with Tailscale mesh networking. Accessible f
 
 
 <p align="center">
+  <img alt="Screenshot 2026-03-19 at 19 54 42" src="https://github.com/user-attachments/assets/a683ba31-ec4d-4766-8e86-3ea34657a863" width="400">
+</p>
+<p align="center">
   <a href="https://github.com/gyuszix/Tail-Vault">
-    <img width="2553" height="1440" alt="Screenshot 2026-03-19 at 19 54 42" src="https://github.com/user-attachments/assets/a683ba31-ec4d-4766-8e86-3ea34657a863"
-        width="400">
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -158,10 +170,11 @@ Self-hosted NAS on a Raspberry Pi 5 with Tailscale mesh networking. Accessible f
 Real-time infrastructure monitoring on a Pi Zero 2 W with e-ink display. Pulls service status from Uptime Kuma over Tailscale, displays health checks for self-hosted services. Python, REST API, Tailscale mesh VPN.
 
 <p align="center">
+  <img alt="pidash" src="https://github.com/user-attachments/assets/2e82e7cf-ae93-4ec0-8a12-cd6682584f02" width="400">
+</p>
+<p align="center">
   <a href="https://github.com/gyuszix/pi-dashboard">
-    <img <img width="2541" height="798" alt="pidash" src="https://github.com/user-attachments/assets/2e82e7cf-ae93-4ec0-8a12-cd6682584f02" 
-        width="400">
-
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
