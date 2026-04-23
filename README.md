@@ -87,10 +87,10 @@ End-to-end demand forecasting for Boston's Bluebike system. XGBoost model served
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/bluebike-demand-prediction">
-    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img height="40" src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://gyuszix.github.io/bluebike-demand-prediction/#/">
-    <img src="https://img.shields.io/badge/Website-0078d7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img height="40" src="https://img.shields.io/badge/Website-0078d7?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -106,7 +106,7 @@ Organize leagues, schedule matches, and track teams for our Carson Beach summer 
 </p>
 <p align="center">
   <a href="https://volleyball-app-frontend-mk1.uw.r.appspot.com/">
-    <img src="https://img.shields.io/badge/Website-0078d7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img height="40" src="https://img.shields.io/badge/Website-0078d7?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
     
@@ -121,13 +121,13 @@ Real-time American Sign Language word recognition using a keypoint-based transfo
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/signFormer">
-    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img height="40" src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://signformer.onrender.com/">
-    <img src="https://img.shields.io/badge/Website-0078d7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img height="40" src="https://img.shields.io/badge/Website-0078d7?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/watch?v=jfe_zdpMaG8">
-    <img src="https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img height="40" src="https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -145,7 +145,7 @@ Based on the popular [Racing Gym Environment](https://github.com/igilitschenski/
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/DQL-Navigator">
-    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img height="40" src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -162,7 +162,7 @@ Self-hosted NAS on a Raspberry Pi 5 with Tailscale mesh networking. Accessible f
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/Tail-Vault">
-    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img height="40" src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -177,7 +177,7 @@ Real-time infrastructure monitoring on a Pi Zero 2 W with e-ink display. Pulls s
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/pi-dashboard">
-    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img height="40" src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
