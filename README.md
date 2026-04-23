@@ -185,10 +185,10 @@ Real-time infrastructure monitoring on a Pi Zero 2 W with e-ink display. Pulls s
 ## Let's Connect:
 <p align="center">
   <a href="https://www.linkedin.com/in/julesplanky/">
-    <img height="60" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img height="100" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gyuszix@gmail.com">
-    <img height="60" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img height="100" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
