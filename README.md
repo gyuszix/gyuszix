@@ -2,7 +2,7 @@
 
 <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/cb9073b0-1c45-4492-9752-2f5310a8007c" />
 <p align="center">
-  <a href="/Gyula_Resume.pdf">
+  <a href="/gyula-planky-resume-github.pdf">
     <img height="40" src="https://img.shields.io/badge/Download%20CV-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
