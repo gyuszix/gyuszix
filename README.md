@@ -4,8 +4,8 @@
 
 <br>My name is Gyula (Jules) and this it my GitHub page
 <br>I am a business major with 4 years of experience in Finance and Data
-<br>Currently pursuing my Masters in Computer Science
-<br>Located in Boston, MA
+<br>Fresh Graduate with a Masters in Computer Science
+<br>Located in Boston, MA 
 
 
 # Technologies I have worked with:
