@@ -1,8 +1,12 @@
 # Welcome to my page:
+
+<img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/cb9073b0-1c45-4492-9752-2f5310a8007c" />
+
 <br>My name is Gyula (Jules) and this it my GitHub page
 <br>I am a business major with 4 years of experience in Finance and Data
 <br>Currently pursuing my Masters in Computer Science
 <br>Located in Boston, MA
+
 
 # Technologies I have worked with:
 
