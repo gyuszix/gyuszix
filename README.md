@@ -2,8 +2,11 @@
 
 <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/cb9073b0-1c45-4492-9752-2f5310a8007c" />
 <p align="center">
-  <a href="/gyula-planky-resume-github.pdf">
-    <img height="40" src="https://img.shields.io/badge/Download%20CV-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <a href="https://github.com/gyuszix/gyuszix/blob/main/gyula-planky-resume-github.pdf">
+    <img height="40" src="https://img.shields.io/badge/View%20Resume-0078d7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://raw.githubusercontent.com/gyuszix/gyuszix/main/gyula-planky-resume-github.pdf">
+    <img height="40" src="https://img.shields.io/badge/Download%20Resume-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
