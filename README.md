@@ -96,7 +96,7 @@
 End-to-end demand forecasting for Boston's Bluebike system. XGBoost model served via FastAPI, orchestrated with Apache Airflow, containerized on ECS Fargate with full CI/CD.
 <p align="center">
   <img width="500" alt="Bluebike repo" src="https://github.com/user-attachments/assets/3874c1dc-3f09-4f46-854a-48e4aaf2b7bc" />
-  <img width="500" alt="Bluebike website" src="[https://github.com/user-attachments/assets/6fe6d510-a6d6-44f1-8832-0f6f8a9e511f](https://bluebikes-backend-784495516002.us-central1.run.app/#/)" />
+  <img width="500" alt="Bluebike website" src="https://github.com/user-attachments/assets/6fe6d510-a6d6-44f1-8832-0f6f8a9e511f" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/bluebike-demand-prediction">
