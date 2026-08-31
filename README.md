@@ -98,6 +98,63 @@
 ---
 
 # Recent Projects I have worked on:
+ 
+## Home Assistant on a Raspberry Pi 5
+ 
+Home Assistant Core running in Docker on a Pi 5, subscribed over MQTT to the Zigbee2MQTT coordinator above. Deliberately split onto its own box for resource headroom and failure isolation — if HA hangs or updates, the Zigbee network keeps running regardless. Reachable over Tailscale only.
+ 
+<p align="center">
+  <!-- add photo here -->
+</p>
+<p align="center">
+  <a href="https://github.com/gyuszix/homeassistant-pi-zigbee">
+    <img height="40" src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+---
+
+## ESP32-C6 Zigbee Coordinator on a Raspberry Pi Zero 2 W
+ 
+A Zigbee2MQTT coordinator built from an ESP32-C6 dev board wired directly to a Pi Zero 2 W over GPIO UART — no USB dongle. Uses the C6's built-in 802.15.4 radio as a ZBOSS NCP instead of a commercial Sonoff/SLZB dongle. Zigbee2MQTT + Mosquitto in Docker, management UI locked down to Tailscale-only access.
+ 
+<p align="center">
+  <!-- add photo here -->
+</p>
+<p align="center">
+  <a href="https://github.com/gyuszix/esp32c6-zigbee-coordinator-pi">
+    <img height="40" src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+---
+ 
+## E-Ink Weather Station
+ 
+A low-power weather station built around a 2.9" three-colour e-paper display. Pulls current conditions, forecast, and UV index from free weather APIs, reads indoor temp/humidity off a BME280, draws it all to the panel, then deep sleeps and repeats every 30 minutes. Runs on either an Arduino UNO R4 WiFi or an ESP32-S3, with v0.2 adding LiPo battery power and voltage-divider monitoring for a fully cordless build.
+ 
+<p align="center">
+  <!-- add photo here -->
+</p>
+<p align="center">
+  <a href="https://github.com/gyuszix/e-ink-weather-station">
+    <img height="40" src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+---
+ 
+## Personal Finance Tracker
+ 
+Cross-platform finance app connecting to bank accounts via Plaid, running on iOS, Android, macOS, and Windows from one codebase. .NET MAUI client talks only to an ASP.NET Core backend over HTTPS — bank data and Plaid credentials never touch the client. EF Core + PostgreSQL for storage, rotating JWT refresh tokens with reuse detection, per-user isolation via EF Core global query filters.
+ 
+<p align="center">
+  <!-- add photo here -->
+</p>
+<p align="center">
+  <a href="https://github.com/gyuszix/personal-finance-app">
+    <img height="40" src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
 
 ## Bluebike Demand Prediction – MLOps Pipeline
 End-to-end demand forecasting for Boston's Bluebike system. XGBoost model served via FastAPI, orchestrated with Apache Airflow, containerized on ECS Fargate with full CI/CD.
