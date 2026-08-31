@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<br>My name is Jules and this it my GitHub page
+<br>My name is Jules Planky and this it my GitHub page
 <br>I hold a Bachelor in Business Administration from ESCP and a Master's in Computer Science from Northeastern University
 <br>Located in New York City
 
@@ -104,7 +104,8 @@
 Home Assistant Core running in Docker on a Pi 5, subscribed over MQTT to the Zigbee2MQTT coordinator above. Deliberately split onto its own box for resource headroom and failure isolation — if HA hangs or updates, the Zigbee network keeps running regardless. Reachable over Tailscale only.
  
 <p align="center">
-  <!-- add photo here -->
+  <img width="400" alt="preview-watermarked" src="https://github.com/user-attachments/assets/f0ca6e19-7077-4651-8d68-4847bbb34318" />
+  <img width="400" alt="Untitled diagram-2026-08-31-202855" src="https://github.com/user-attachments/assets/32d4979b-f5b3-4a3e-998b-a388becb58ef" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/homeassistant-pi-zigbee">
@@ -118,9 +119,9 @@ Home Assistant Core running in Docker on a Pi 5, subscribed over MQTT to the Zig
 A Zigbee2MQTT coordinator built from an ESP32-C6 dev board wired directly to a Pi Zero 2 W over GPIO UART — no USB dongle. Uses the C6's built-in 802.15.4 radio as a ZBOSS NCP instead of a commercial Sonoff/SLZB dongle. Zigbee2MQTT + Mosquitto in Docker, management UI locked down to Tailscale-only access.
  
 <p align="center">
-  <img width="864" height="627" alt="c6" src="https://github.com/user-attachments/assets/3e5bdbec-fc94-456b-b17b-cf3672e0df57" />
-  <img width="4032" height="3024" alt="bread-board" src="https://github.com/user-attachments/assets/d7423518-903c-472b-a70b-4e3ef689da3f" />
-  <img width="735" height="696" alt="Screenshot 2026-08-31 at 15 58 36" src="https://github.com/user-attachments/assets/8bbec528-6ee8-4bbb-a804-6c794d72d326" />
+  <img width="400" alt="c6" src="https://github.com/user-attachments/assets/3e5bdbec-fc94-456b-b17b-cf3672e0df57" />
+  <img width="400" alt="bread-board" src="https://github.com/user-attachments/assets/d7423518-903c-472b-a70b-4e3ef689da3f" />
+  <img width="400" alt="Screenshot 2026-08-31 at 15 58 36" src="https://github.com/user-attachments/assets/8bbec528-6ee8-4bbb-a804-6c794d72d326" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/esp32c6-zigbee-coordinator-pi">
@@ -134,9 +135,9 @@ A Zigbee2MQTT coordinator built from an ESP32-C6 dev board wired directly to a P
 A low-power weather station built around a 2.9" three-colour e-paper display. Pulls current conditions, forecast, and UV index from free weather APIs, reads indoor temp/humidity off a BME280, draws it all to the panel, then deep sleeps and repeats every 30 minutes. Runs on either an Arduino UNO R4 WiFi or an ESP32-S3, with v0.2 adding LiPo battery power and voltage-divider monitoring for a fully cordless build.
  
 <p align="center">
-  <img width="2561" height="1046" alt="e-ink-display" src="https://github.com/user-attachments/assets/a54c4c5a-0f1d-419d-9e92-0a5d1b750385" />
-  <img width="979" height="396" alt="e-paper-module" src="https://github.com/user-attachments/assets/36d587f9-d095-4823-90c3-45e10dd961a2" />
-  <img width="1170" height="1286" alt="s3-pinout" src="https://github.com/user-attachments/assets/cf421ffd-7222-4781-8f47-246bbea25bc2" />
+  <img width="400" alt="e-ink-display" src="https://github.com/user-attachments/assets/a54c4c5a-0f1d-419d-9e92-0a5d1b750385" />
+  <img width="400" alt="e-paper-module" src="https://github.com/user-attachments/assets/36d587f9-d095-4823-90c3-45e10dd961a2" />
+  <img width="400" alt="s3-pinout" src="https://github.com/user-attachments/assets/cf421ffd-7222-4781-8f47-246bbea25bc2" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/e-ink-weather-station">
@@ -150,11 +151,8 @@ A low-power weather station built around a 2.9" three-colour e-paper display. Pu
 Cross-platform finance app connecting to bank accounts via Plaid, running on iOS, Android, macOS, and Windows from one codebase. .NET MAUI client talks only to an ASP.NET Core backend over HTTPS — bank data and Plaid credentials never touch the client. EF Core + PostgreSQL for storage, rotating JWT refresh tokens with reuse detection, per-user isolation via EF Core global query filters.
  
 <p align="center">
-  <img width="730" height="893" alt="Screenshot 2026-08-31 at 16 01 53" src="https://github.com/user-attachments/assets/ab8e39b6-d5f2-4cd2-8d8c-d4cc9b78b3f5" />
-  <img width="630" height="801" alt="Screenshot 2026-08-31 at 16 07 09" src="https://github.com/user-attachments/assets/4a43171f-3718-452f-8b7e-54bf1ce5f88c" />
-
-
-
+  <img width="400" alt="Screenshot 2026-08-31 at 16 01 53" src="https://github.com/user-attachments/assets/ab8e39b6-d5f2-4cd2-8d8c-d4cc9b78b3f5" />
+  <img width="400" alt="Screenshot 2026-08-31 at 16 07 09" src="https://github.com/user-attachments/assets/4a43171f-3718-452f-8b7e-54bf1ce5f88c" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/personal-finance-app">
