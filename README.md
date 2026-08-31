@@ -118,7 +118,9 @@ Home Assistant Core running in Docker on a Pi 5, subscribed over MQTT to the Zig
 A Zigbee2MQTT coordinator built from an ESP32-C6 dev board wired directly to a Pi Zero 2 W over GPIO UART — no USB dongle. Uses the C6's built-in 802.15.4 radio as a ZBOSS NCP instead of a commercial Sonoff/SLZB dongle. Zigbee2MQTT + Mosquitto in Docker, management UI locked down to Tailscale-only access.
  
 <p align="center">
-  <!-- add photo here -->
+  <img width="864" height="627" alt="c6" src="https://github.com/user-attachments/assets/3e5bdbec-fc94-456b-b17b-cf3672e0df57" />
+  <img width="4032" height="3024" alt="bread-board" src="https://github.com/user-attachments/assets/d7423518-903c-472b-a70b-4e3ef689da3f" />
+  <img width="735" height="696" alt="Screenshot 2026-08-31 at 15 58 36" src="https://github.com/user-attachments/assets/8bbec528-6ee8-4bbb-a804-6c794d72d326" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/esp32c6-zigbee-coordinator-pi">
