@@ -132,7 +132,9 @@ A Zigbee2MQTT coordinator built from an ESP32-C6 dev board wired directly to a P
 A low-power weather station built around a 2.9" three-colour e-paper display. Pulls current conditions, forecast, and UV index from free weather APIs, reads indoor temp/humidity off a BME280, draws it all to the panel, then deep sleeps and repeats every 30 minutes. Runs on either an Arduino UNO R4 WiFi or an ESP32-S3, with v0.2 adding LiPo battery power and voltage-divider monitoring for a fully cordless build.
  
 <p align="center">
-  <!-- add photo here -->
+  <img width="2561" height="1046" alt="e-ink-display" src="https://github.com/user-attachments/assets/a54c4c5a-0f1d-419d-9e92-0a5d1b750385" />
+  <img width="979" height="396" alt="e-paper-module" src="https://github.com/user-attachments/assets/36d587f9-d095-4823-90c3-45e10dd961a2" />
+  <img width="1170" height="1286" alt="s3-pinout" src="https://github.com/user-attachments/assets/cf421ffd-7222-4781-8f47-246bbea25bc2" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/e-ink-weather-station">
