@@ -105,6 +105,7 @@ Home Assistant Core running in Docker on a Pi 5, subscribed over MQTT to the Zig
  
 <p align="center">
   <img width="400" alt="preview-watermarked" src="https://github.com/user-attachments/assets/f0ca6e19-7077-4651-8d68-4847bbb34318" />
+  <br/>
   <img width="400" alt="Untitled diagram-2026-08-31-202855" src="https://github.com/user-attachments/assets/32d4979b-f5b3-4a3e-998b-a388becb58ef" />
 </p>
 <p align="center">
@@ -113,6 +114,7 @@ Home Assistant Core running in Docker on a Pi 5, subscribed over MQTT to the Zig
   </a>
 </p>
 ---
+
 
 ## ESP32-C6 Zigbee Coordinator on a Raspberry Pi Zero 2 W
  
