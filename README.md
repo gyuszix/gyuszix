@@ -175,7 +175,7 @@ End-to-end demand forecasting for Boston's Bluebike system. XGBoost model served
   <a href="https://github.com/gyuszix/bluebike-demand-prediction">
     <img height="40" src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://gyuszix.github.io/bluebike-demand-prediction/#/">
+  <a href="https://bluebikes-ui.onrender.com/#/">
     <img height="40" src="https://img.shields.io/badge/Website-0078d7?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
