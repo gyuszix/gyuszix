@@ -165,6 +165,7 @@ Cross-platform finance app connecting to bank accounts via Plaid, running on iOS
 
 
 ## Bluebike Demand Prediction – MLOps Pipeline
+
 End-to-end demand forecasting for Boston's Bluebike system. XGBoost model served via FastAPI, orchestrated with Apache Airflow, containerized on ECS Fargate with full CI/CD.
 <p align="center">
   <img width="500" alt="Bluebike repo" src="https://github.com/user-attachments/assets/3874c1dc-3f09-4f46-854a-48e4aaf2b7bc" />
@@ -190,7 +191,7 @@ Organize leagues, schedule matches, and track teams for our Carson Beach summer 
   <img src="https://github.com/user-attachments/assets/cedc61a7-303b-41b9-8bc4-a694245545c0" width="400">
 </p>
 <p align="center">
-  <a href="https://spike-city-frontend.ue.r.appspot.com//">
+  <a href="https://spike-city-frontend.onrender.com/">
     <img height="40" src="https://img.shields.io/badge/Website-0078d7?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
