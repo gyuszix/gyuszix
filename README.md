@@ -115,6 +115,21 @@ Home Assistant Core running in Docker on a Pi 5, subscribed over MQTT to the Zig
 </p>
 ---
 
+## Biltong Box Airflow – CFD-Optimised Dryer Design
+
+Airflow simulation for a DIY biltong dryer built from an IKEA SAMLA tote + PC fan, run through Blender + OpenFOAM across 9 experiments (fan placement, vent count, vent size, rod orientation). The point wasn't just chasing top-line airflow numbers — every configuration got checked against whether it's actually buildable and whether the fan can realistically push against the back-pressure it creates. Current pick: 6 vents split across both long faces, fan on a short end face, rods lengthwise — beats every other layout tested while needing half the vent holes to drill.
+
+<p align="center">
+  <img width="500" alt="biltong box streamlines" src="https://github.com/gyuszix/biltong-box-cfd/raw/main/experiments/09-bigger-fewer-vents/results/streamlines.gif" />
+</p>
+<p align="center">
+  <a href="https://github.com/gyuszix/biltong-box-cfd">
+    <img height="40" src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 
 ## ESP32-C6 Zigbee Coordinator on a Raspberry Pi Zero 2 W
  
