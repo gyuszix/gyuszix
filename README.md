@@ -115,6 +115,21 @@ Home Assistant Core running in Docker on a Pi 5, subscribed over MQTT to the Zig
 </p>
 ---
 
+## CAD Projects – Parametric 3D-Printable Enclosures
+
+3D-printable enclosures and organizers modeled in Python with build123d. Each part is a single script: change the dimension constants at the top, run it, and it exports an STL. Includes a case and lift-off lid for the e-ink weather station (ESP32, 2.9" e-paper, half-size breadboard, LiPo + TP4056 USB-C charger), made by resizing existing STLs, adding breadboard rails and cutting a USB-C port. Also a mahjong tile case: stackable trays, a crate that holds four of them, and a lid.
+
+<p align="center">
+  <img width="500" alt="e-paper enclosure preview" src="https://github.com/gyuszix/cad-projects/raw/main/e-ink-weather-station-case/Epaper_Enclosure_2p9_Preview.png" />
+</p>
+<p align="center">
+  <a href="https://github.com/gyuszix/cad-projects">
+    <img height="40" src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## Biltong Box Airflow – CFD-Optimised Dryer Design
 
 Airflow simulation for a DIY biltong dryer built from an IKEA SAMLA tote + PC fan, run through Blender + OpenFOAM across 9 experiments (fan placement, vent count, vent size, rod orientation). The point wasn't just chasing top-line airflow numbers — every configuration got checked against whether it's actually buildable and whether the fan can realistically push against the back-pressure it creates. Current pick: 6 vents split across both long faces, fan on a short end face, rods lengthwise — beats every other layout tested while needing half the vent holes to drill.
