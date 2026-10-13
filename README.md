@@ -183,8 +183,10 @@ A low-power weather station built around a 2.9" three-colour e-paper display. Pu
 Cross-platform finance app connecting to bank accounts via Plaid, running on iOS, Android, macOS, and Windows from one codebase. .NET MAUI client talks only to an ASP.NET Core backend over HTTPS — bank data and Plaid credentials never touch the client. EF Core + PostgreSQL for storage, rotating JWT refresh tokens with reuse detection, per-user isolation via EF Core global query filters.
  
 <p align="center">
-  <img width="400" alt="Screenshot 2026-08-31 at 16 01 53" src="https://github.com/user-attachments/assets/ab8e39b6-d5f2-4cd2-8d8c-d4cc9b78b3f5" />
-  <img width="400" alt="Screenshot 2026-08-31 at 16 07 09" src="https://github.com/user-attachments/assets/4a43171f-3718-452f-8b7e-54bf1ce5f88c" />
+  <img width="2560" height="1519" alt="Screenshot 2026-10-13 at 12 54 48" src="https://github.com/user-attachments/assets/47e95522-6f21-4959-a303-78f4bbeedb48" />
+  <img width="1832" height="1101" alt="Screenshot 2026-10-13 at 12 59 10" src="https://github.com/user-attachments/assets/5b578380-b6b2-4211-a6cb-2470cf3c8be4" />
+
+
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/personal-finance-app">
