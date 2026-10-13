@@ -98,15 +98,26 @@
 ---
 
 # Recent Projects I have worked on:
+
+## Personal Finance Tracker
+ 
+Cross-platform finance app connecting to bank accounts via Plaid, running on iOS, Android, macOS, and Windows from one codebase. .NET MAUI client talks only to an ASP.NET Core backend over HTTPS — bank data and Plaid credentials never touch the client. EF Core + PostgreSQL for storage, rotating JWT refresh tokens with reuse detection, per-user isolation via EF Core global query filters.
+ 
+<p align="center">
+  <img height="260" alt="Personal finance dashboard" src="https://github.com/user-attachments/assets/47e95522-6f21-4959-a303-78f4bbeedb48" /><img height="260" alt="Personal finance accounts" src="https://github.com/user-attachments/assets/5b578380-b6b2-4211-a6cb-2470cf3c8be4" />
+</p>
+<p align="center">
+  <a href="https://github.com/gyuszix/personal-finance-app">
+    <img height="40" src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
  
 ## Home Assistant on a Raspberry Pi 5
  
 Home Assistant Core running in Docker on a Pi 5, subscribed over MQTT to the Zigbee2MQTT coordinator above. Deliberately split onto its own box for resource headroom and failure isolation — if HA hangs or updates, the Zigbee network keeps running regardless. Reachable over Tailscale only.
  
 <p align="center">
-  <img width="400" alt="preview-watermarked" src="https://github.com/user-attachments/assets/f0ca6e19-7077-4651-8d68-4847bbb34318" />
-  <br/>
-  <img width="400" alt="Untitled diagram-2026-08-31-202855" src="https://github.com/user-attachments/assets/32d4979b-f5b3-4a3e-998b-a388becb58ef" />
+  <img height="260" alt="Home Assistant dashboard" src="https://github.com/user-attachments/assets/229e4d63-1485-48aa-947b-16bb9125ebc0" /><img height="260" alt="Home Assistant architecture diagram" src="https://github.com/user-attachments/assets/32d4979b-f5b3-4a3e-998b-a388becb58ef" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/homeassistant-pi-zigbee">
@@ -120,7 +131,7 @@ Home Assistant Core running in Docker on a Pi 5, subscribed over MQTT to the Zig
 3D-printable enclosures and organizers modeled in Python with build123d. Each part is a single script: change the dimension constants at the top, run it, and it exports an STL. Includes a case and lift-off lid for the e-ink weather station (ESP32, 2.9" e-paper, half-size breadboard, LiPo + TP4056 USB-C charger), made by resizing existing STLs, adding breadboard rails and cutting a USB-C port. Also a mahjong tile case: stackable trays, a crate that holds four of them, and a lid.
 
 <p align="center">
-  <img width="500" alt="e-paper enclosure preview" src="https://github.com/gyuszix/cad-projects/raw/main/e-ink-weather-station-case/Epaper_Enclosure_2p9_Preview.png" />
+  <img height="260" alt="e-paper enclosure preview" src="https://github.com/gyuszix/cad-projects/raw/main/e-ink-weather-station-case/Epaper_Enclosure_2p9_Preview.png" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/cad-projects">
@@ -135,7 +146,7 @@ Home Assistant Core running in Docker on a Pi 5, subscribed over MQTT to the Zig
 Airflow simulation for a DIY biltong dryer built from an IKEA SAMLA tote + PC fan, run through Blender + OpenFOAM across 9 experiments (fan placement, vent count, vent size, rod orientation). The point wasn't just chasing top-line airflow numbers — every configuration got checked against whether it's actually buildable and whether the fan can realistically push against the back-pressure it creates. Current pick: 6 vents split across both long faces, fan on a short end face, rods lengthwise — beats every other layout tested while needing half the vent holes to drill.
 
 <p align="center">
-  <img width="500" alt="biltong box streamlines" src="https://github.com/gyuszix/biltong-box-cfd/raw/main/experiments/09-bigger-fewer-vents/results/streamlines.gif" />
+  <img height="260" alt="biltong box streamlines" src="https://github.com/gyuszix/biltong-box-cfd/raw/main/experiments/09-bigger-fewer-vents/results/streamlines.gif" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/biltong-box-cfd">
@@ -151,9 +162,7 @@ Airflow simulation for a DIY biltong dryer built from an IKEA SAMLA tote + PC fa
 A Zigbee2MQTT coordinator built from an ESP32-C6 dev board wired directly to a Pi Zero 2 W over GPIO UART — no USB dongle. Uses the C6's built-in 802.15.4 radio as a ZBOSS NCP instead of a commercial Sonoff/SLZB dongle. Zigbee2MQTT + Mosquitto in Docker, management UI locked down to Tailscale-only access.
  
 <p align="center">
-  <img width="400" alt="c6" src="https://github.com/user-attachments/assets/3e5bdbec-fc94-456b-b17b-cf3672e0df57" />
-  <img width="400" alt="bread-board" src="https://github.com/user-attachments/assets/d7423518-903c-472b-a70b-4e3ef689da3f" />
-  <img width="400" alt="Screenshot 2026-08-31 at 15 58 36" src="https://github.com/user-attachments/assets/8bbec528-6ee8-4bbb-a804-6c794d72d326" />
+  <img height="220" alt="c6" src="https://github.com/user-attachments/assets/3e5bdbec-fc94-456b-b17b-cf3672e0df57" /><img height="220" alt="bread-board" src="https://github.com/user-attachments/assets/d7423518-903c-472b-a70b-4e3ef689da3f" /><img height="220" alt="Zigbee2MQTT UI" src="https://github.com/user-attachments/assets/b310ff3e-3842-4cd9-97c5-0ccca8506efa" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/esp32c6-zigbee-coordinator-pi">
@@ -167,9 +176,7 @@ A Zigbee2MQTT coordinator built from an ESP32-C6 dev board wired directly to a P
 A low-power weather station built around a 2.9" three-colour e-paper display. Pulls current conditions, forecast, and UV index from free weather APIs, reads indoor temp/humidity off a BME280, draws it all to the panel, then deep sleeps and repeats every 30 minutes. Runs on either an Arduino UNO R4 WiFi or an ESP32-S3, with v0.2 adding LiPo battery power and voltage-divider monitoring for a fully cordless build.
  
 <p align="center">
-  <img width="400" alt="e-ink-display" src="https://github.com/user-attachments/assets/a54c4c5a-0f1d-419d-9e92-0a5d1b750385" />
-  <img width="400" alt="e-paper-module" src="https://github.com/user-attachments/assets/36d587f9-d095-4823-90c3-45e10dd961a2" />
-  <img width="400" alt="s3-pinout" src="https://github.com/user-attachments/assets/cf421ffd-7222-4781-8f47-246bbea25bc2" />
+  <img height="220" alt="e-ink-display" src="https://github.com/user-attachments/assets/a54c4c5a-0f1d-419d-9e92-0a5d1b750385" /><img height="220" alt="e-paper-module" src="https://github.com/user-attachments/assets/36d587f9-d095-4823-90c3-45e10dd961a2" /><img height="220" alt="s3-pinout" src="https://github.com/user-attachments/assets/cf421ffd-7222-4781-8f47-246bbea25bc2" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/e-ink-weather-station">
@@ -177,31 +184,13 @@ A low-power weather station built around a 2.9" three-colour e-paper display. Pu
   </a>
 </p>
 ---
- 
-## Personal Finance Tracker
- 
-Cross-platform finance app connecting to bank accounts via Plaid, running on iOS, Android, macOS, and Windows from one codebase. .NET MAUI client talks only to an ASP.NET Core backend over HTTPS — bank data and Plaid credentials never touch the client. EF Core + PostgreSQL for storage, rotating JWT refresh tokens with reuse detection, per-user isolation via EF Core global query filters.
- 
-<p align="center">
-  <img width="2560" height="1519" alt="Screenshot 2026-10-13 at 12 54 48" src="https://github.com/user-attachments/assets/47e95522-6f21-4959-a303-78f4bbeedb48" />
-  <img width="1832" height="1101" alt="Screenshot 2026-10-13 at 12 59 10" src="https://github.com/user-attachments/assets/5b578380-b6b2-4211-a6cb-2470cf3c8be4" />
-
-
-</p>
-<p align="center">
-  <a href="https://github.com/gyuszix/personal-finance-app">
-    <img height="40" src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 
 
 ## Bluebike Demand Prediction – MLOps Pipeline
 
 End-to-end demand forecasting for Boston's Bluebike system. XGBoost model served via FastAPI, orchestrated with Apache Airflow, containerized on ECS Fargate with full CI/CD.
 <p align="center">
-  <img width="500" alt="Bluebike repo" src="https://github.com/user-attachments/assets/3874c1dc-3f09-4f46-854a-48e4aaf2b7bc" />
-  <img width="500" alt="Bluebike website" src="https://github.com/user-attachments/assets/6fe6d510-a6d6-44f1-8832-0f6f8a9e511f" />
+  <img height="260" alt="Bluebike repo" src="https://github.com/user-attachments/assets/3874c1dc-3f09-4f46-854a-48e4aaf2b7bc" /><img height="260" alt="Bluebike website" src="https://github.com/user-attachments/assets/6fe6d510-a6d6-44f1-8832-0f6f8a9e511f" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/bluebike-demand-prediction">
@@ -220,7 +209,7 @@ End-to-end demand forecasting for Boston's Bluebike system. XGBoost model served
 Organize leagues, schedule matches, and track teams for our Carson Beach summer games. MongoDB, Express, React, Node.js stack, RESTful implementation.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cedc61a7-303b-41b9-8bc4-a694245545c0" width="400">
+  <img height="260" alt="Spike City" src="https://github.com/user-attachments/assets/cedc61a7-303b-41b9-8bc4-a694245545c0" />
 </p>
 <p align="center">
   <a href="https://spike-city-frontend.onrender.com/">
@@ -234,8 +223,7 @@ Organize leagues, schedule matches, and track teams for our Carson Beach summer 
 Real-time American Sign Language word recognition using a keypoint-based transformer. MediaPipe extracts hand landmarks, a compact transformer classifies 1,896 signs at 72.8% Top-1 accuracy, running entirely on CPU via ONNX Runtime at ~1.5ms per inference.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/78dce40d-c81f-430a-95c1-e913d0ab75d5" width="400">
-  <img src="https://img.youtube.com/vi/jfe_zdpMaG8/hqdefault.jpg" width="400">
+  <img height="260" alt="SignFormer" src="https://github.com/user-attachments/assets/78dce40d-c81f-430a-95c1-e913d0ab75d5" /><img height="260" alt="SignFormer demo" src="https://img.youtube.com/vi/jfe_zdpMaG8/hqdefault.jpg" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/signFormer">
@@ -259,7 +247,7 @@ Based on the popular [Racing Gym Environment](https://github.com/igilitschenski/
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/23ad62df-ecaa-47b2-b29f-f667ea888caf" width="400">
+  <img height="260" alt="DQL Navigator" src="https://github.com/user-attachments/assets/23ad62df-ecaa-47b2-b29f-f667ea888caf" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/DQL-Navigator">
@@ -276,7 +264,7 @@ Self-hosted NAS on a Raspberry Pi 5 with Tailscale mesh networking. Accessible f
 
 
 <p align="center">
-  <img alt="Screenshot 2026-03-19 at 19 54 42" src="https://github.com/user-attachments/assets/a683ba31-ec4d-4766-8e86-3ea34657a863" width="400">
+  <img height="260" alt="Tail Vault" src="https://github.com/user-attachments/assets/a683ba31-ec4d-4766-8e86-3ea34657a863" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/Tail-Vault">
@@ -291,7 +279,7 @@ Self-hosted NAS on a Raspberry Pi 5 with Tailscale mesh networking. Accessible f
 Real-time infrastructure monitoring on a Pi Zero 2 W with e-ink display. Pulls service status from Uptime Kuma over Tailscale, displays health checks for self-hosted services. Python, REST API, Tailscale mesh VPN.
 
 <p align="center">
-  <img alt="pidash" src="https://github.com/user-attachments/assets/2e82e7cf-ae93-4ec0-8a12-cd6682584f02" width="400">
+  <img height="260" alt="pidash" src="https://github.com/user-attachments/assets/2e82e7cf-ae93-4ec0-8a12-cd6682584f02" />
 </p>
 <p align="center">
   <a href="https://github.com/gyuszix/pi-dashboard">
@@ -309,5 +297,3 @@ Real-time infrastructure monitoring on a Pi Zero 2 W with e-ink display. Pulls s
     <img height="100" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
