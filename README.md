@@ -188,7 +188,7 @@ A low-power weather station built around a 2.9" three-colour e-paper display. Pu
 
 ## Bluebike Demand Prediction – MLOps Pipeline
 
-End-to-end demand forecasting for Boston's Bluebike system. XGBoost model served via FastAPI, orchestrated with Apache Airflow, containerized on ECS Fargate with full CI/CD.
+End-to-end demand forecasting for Boston's Bluebike system, built as a 5-person Northeastern MLOps team project. Airflow pipelines ingest trip and NOAA weather data, retrain XGBoost, LightGBM and Random Forest weekly with bias checks, and use Evidently drift detection to trigger retraining. Served via a Flask API behind a React + Express UI. Later redeployed it solo to Render; the live demo runs a stand-in model trained on synthetic data.
 <p align="center">
   <img height="260" alt="Bluebike repo" src="https://github.com/user-attachments/assets/3874c1dc-3f09-4f46-854a-48e4aaf2b7bc" /><img height="260" alt="Bluebike website" src="https://github.com/user-attachments/assets/6fe6d510-a6d6-44f1-8832-0f6f8a9e511f" />
 </p>
